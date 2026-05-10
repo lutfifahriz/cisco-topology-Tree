@@ -26,3 +26,4 @@ Topologi Tree cocok digunakan untuk jaringan dengan struktur bertingkat seperti 
 ## Kekurangan
 - Bergantung pada jalur utama
 - Konfigurasi lebih kompleks dibanding star
+![Topologi](https://github.com/lutfifahriz/cisco-topology-Tree/blob/main/TOPOLOGI%20TREE.png)
